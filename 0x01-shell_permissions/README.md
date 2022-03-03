@@ -1,1 +1,1 @@
-script that addsexecute permission to owner of the file hello
+script that adds execute permission to the owner and the group owner, and read permission to other users, to the files hello
