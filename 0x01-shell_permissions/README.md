@@ -1,1 +1,1 @@
-script sets mode of the file
+sets mode of the file hello the same as olleh's mode
