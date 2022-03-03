@@ -1,1 +1,1 @@
-add execution permission to all subdirectories of current directory
+creates a directory my_dir with 750 permissions
