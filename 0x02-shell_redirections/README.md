@@ -1,1 +1,1 @@
-script that displays a aconfuded smiley
+dsiplay content of /etc/passwd file
