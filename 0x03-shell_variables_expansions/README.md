@@ -1,1 +1,1 @@
-encoding and decoding text
+every other line output
