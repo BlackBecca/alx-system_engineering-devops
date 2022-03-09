@@ -1,1 +1,1 @@
- script that displays the result of BREATH to the power LOVE
+script that prints hello user, where user is the current Linux user.
